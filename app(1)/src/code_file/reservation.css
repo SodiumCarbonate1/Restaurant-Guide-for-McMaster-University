@@ -1,0 +1,57 @@
+.home1{
+    background-color:palevioletred;
+    border-radius: 15px 15px;
+    padding:10px 20px;
+    margin: auto;
+    text-align: center;
+}
+.reservation{
+    background-color:palevioletred;
+    border-radius: 15px 15px;
+    padding:10px 20px;
+    margin: auto;
+    text-align: center;
+}
+
+#bg{
+    border-radius: 15px 15px;
+    margin-top:10px;
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+    background-position: top;
+    padding: 15px 15px;
+    font-size: 20px;
+}
+
+
+h1{
+    color: white;
+}
+#d1{
+    border: 1px solid black;
+}
+
+#e1{
+    border: 1px solid black;
+}
+
+#t{
+    background-color: pink;
+    border: 2px solid black;
+}
+
+#th{
+    background-color: pink;
+    border: 2px solid black;
+}
+
+#r{
+    background-color: pink;
+    border: 2px solid black;
+}
+
+#l{
+    border: 2px solid black;
+}
+  

@@ -1,0 +1,52 @@
+.Suggestionbox{
+    background-color:palevioletred;
+    font-size: 10px;
+    border-radius: 15px 15px;
+    padding:10px 20px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.questionbox{
+    margin:auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 350px;
+    border-style: solid;
+    border-color:black;
+    border-radius: 15px 15px;
+    background-color: pink;
+    justify-content: center;
+    text-align: center;
+}
+
+.namebox{
+    width:200px;
+    height:30px;
+    text-align: center;
+    border-color: palevioletred;
+    border-radius: 5px 5px;
+}
+p{
+    font-size: 20px;
+}
+.emailbox{
+    width:200px;
+    height:30px;
+    text-align: center;
+    border-color: palevioletred;
+    border-radius: 5px 5px;
+}
+.suggestionbox{
+    width: 300px;
+    height:70px;
+    text-align: center;
+    border-color: palevioletred;
+    border-radius: 5px 5px;
+}
+
+.submitbox{
+    margin-top: -20px;
+}

@@ -1,0 +1,60 @@
+.toppage1{
+    background-image: url("../picture/123.webp");
+    height:100%;
+    width:100%;
+}
+.tops{
+    background-color:palevioletred;
+    border-radius: 15px 15px;
+    padding:10px 20px;
+    margin: auto;
+    text-align: center;
+}
+.restaurant1{
+    height:60%;
+    width: 60%;
+    margin: 30px;
+}
+.information{
+    text-align: left;
+    margin: auto;
+    border-style: solid;
+    border-color:black;
+    border-radius: 15px 15px;
+    width:400px;
+    height:70px;
+    padding: 15px 15px;
+    list-style-type: none;
+    font-size: 20px;
+
+}
+.restauranttops{
+    margin:auto;
+    width:1000px;
+    margin-top:10px;
+    background: pink;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15px 15px;
+    padding: 10px 10px;
+
+}
+.cid{
+    margin:auto;
+    margin-top:10px;
+    background-color: pink;
+    border-radius: 5px 5px;
+    border-style: solid;
+    border-color: black;
+    text-align: start;
+    padding: 5px 5px;
+    justify-content: center;
+    width:200px;
+    height: 120px;
+    font-size: 18px;
+}
+
+h1{
+    color: white;
+}
